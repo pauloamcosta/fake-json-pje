@@ -1,4 +1,5 @@
-[
+{
+    "Processos": [
       {
         "titulo": "AÇÃO PENAL - PROCEDIMENTO ORDINÁRIO",
         "numero": "0814802-81.2018.4.05.8400T",
@@ -73,5 +74,21 @@
             "nome": "João Costa Filho"
             }
         ]
+      },
+      {
+        "titulo": "EMBARGOS À EXECUÇÃO",
+        "numero": "0803712-67.2013.4.05.8400T",
+        "partesRe":[
+            {
+            "nome": "Fazenda Nacional"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Costa Filho"
+            }
+        ]
       }
     ]
+  }
