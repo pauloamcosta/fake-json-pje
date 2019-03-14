@@ -1,0 +1,94 @@
+{
+    "Processos": [
+      {
+        "titulo": "AÇÃO PENAL - PROCEDIMENTO ORDINÁRIO",
+        "numero": "0814802-81.2018.4.05.8400T",
+        "partesRe":[
+            {
+            "nome": "Joao Paulo Silva"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Pedro Costa"
+            }
+        ]
+      },
+      {
+        "titulo": "PROCEDIMENTO COMUM",
+        "numero": "0814546-41.2018.4.05.8400S",
+        "partesRe":[
+            {
+            "nome": "União Federal"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "Maria do Socorro"
+            }
+        ]
+      },
+      {
+        "titulo": "INQUÉRITO POLICIAL",
+        "numero": "0814190-46.2018.4.05.8400T",
+        "partesRe":[
+            {
+            "nome": "Pedro José Costa"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "Delepat"
+            }
+        ]
+      },
+      {
+        "titulo": "OUTROS PROCEDIMENTOS DE JURISDIÇÃO VOLUNTÁRIA",
+        "numero": "0812749-30.2018.4.05.8400S",
+        "partesRe":[
+            {
+            "nome": "Caixa Econômica Federal"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Costa Filho"
+            }
+        ]
+      },
+      {
+        "titulo": "EMBARGOS À EXECUÇÃO",
+        "numero": "0803711-67.2013.4.05.8400T",
+        "partesRe":[
+            {
+            "nome": "Fazenda Nacional"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Costa Filho"
+            }
+        ]
+      },
+      {
+        "titulo": "EMBARGOS À EXECUÇÃO",
+        "numero": "0803712-67.2013.4.05.8400T",
+        "partesRe":[
+            {
+            "nome": "Fazenda Nacional"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Costa Filho"
+            }
+        ]
+      }
+    ]
+  }
